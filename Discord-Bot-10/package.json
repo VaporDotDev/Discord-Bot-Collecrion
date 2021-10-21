@@ -1,0 +1,16 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "keywords": [],
+  "author": "Dominic Kuncik",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "fs": "^0.0.1-security",
+    "glob": "^7.1.7",
+    "mongoose": "^6.0.3",
+    "nodeman": "^1.1.2"
+  }
+}
