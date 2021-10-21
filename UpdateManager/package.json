@@ -1,0 +1,16 @@
+{
+  "name": "updatemanager",
+  "version": "1.0.0",
+  "description": "Manages self assigning roles for delivering updates to users",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^13.1.0",
+    "glob": "^7.2.0",
+    "mongoose": "^6.0.8",
+    "nodemon": "^2.0.13"
+  }
+}
